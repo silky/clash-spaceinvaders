@@ -10,6 +10,7 @@ dependencies:
   - shake
   - mustache
   - higgledy
+  - intel8080
 
 source-dirs:
   - src-clash
